@@ -104,7 +104,7 @@ pagina = """
 
         function clicouSim() {
             document.getElementById("pergunta").innerHTML =
-                "Eu sabia sua covarde! 😭❤️<br><br>Agora me perdoa? 🥺";
+            "Eu sabia sua covarde! 😭<br><br>Agora me perdoa? 🥺";
         }
     </script>
 
